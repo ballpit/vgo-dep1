@@ -1,7 +1,7 @@
 package dep1
 
 import (
-	dep2 "github.com/ballpit/vgo-dep2/v2"
+	dep2 "github.com/v2/ballpit/vgo-dep2"
 )
 
 // TestFunc returns some data.
